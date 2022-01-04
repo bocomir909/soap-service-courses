@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse xmnls="http://www.test.com/test-soap"
+                          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                          xsi:schemaLocation="http://www.test.com/test-soap Response.xsd">
+    <CouseDetails>
+        <id>123</id>
+        <name>Spring in 28mins</name>
+        <description>Course details</description>
+    </CouseDetails>
+</GetCourseDetailsResponse>

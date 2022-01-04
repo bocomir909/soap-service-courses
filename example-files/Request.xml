@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsRequest xmnls="http://www.test.com/test-soap"
+                         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                         xsi:schemaLocation="http://www.test.com/test-soap Request.xsd">
+    <id>ABC</id> <!-- number only. How to validate it if i type letters instead of numbers? -->
+</GetCourseDetailsRequest>
